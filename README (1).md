@@ -128,19 +128,8 @@ project/
 ---
 
 ## Dataset Links
-
-> *Add or update dataset links below as new sources are used.*
-
-- **RaindropsOnWindshield** (Soboleva & Shipitko, 2021)
-  - Zenodo (direct download): https://zenodo.org/records/4680442
-  - GitHub (code + docs): https://github.com/Evocargo/RaindropsOnWindshield
-  - Quick install: `pip install zenodo-get && zenodo_get 4680442`
 - **Raindrop Clarity** (Jin et al., 2024)
   - GitHub: https://github.com/jinyeying/RaindropClarity
-- `[ ]` *Additional dataset link —*
-- `[ ]` *Additional dataset link —*
-- `[ ]` *Additional dataset link —*
-
 ---
 
 ## Research Paper References
