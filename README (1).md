@@ -153,8 +153,6 @@ project/
   Automatic Control System Based on Machine Vision and Deep Learning for
   Car Windscreen Clean.* Scientific Reports, 15, Article 4857.
   https://www.nature.com/articles/s41598-025-88688-9
-- `[ ]` *Additional paper —*
-- `[ ]` *Additional paper —*
 
 ---
 
